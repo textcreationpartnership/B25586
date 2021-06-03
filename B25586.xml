@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The ladies lamentation, or, The commanders last farewel, who valiantly lost his life in the last engagement; for the loss of whom his loving lady laments. To the tune of, Loggan water, licensed according to order.</title>
+         </titleStmt>
+         <extent>Approx. 3KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25586</idno><idno type="EEBO-CITATION">99888266</idno>
+  <idno type="VID">201070</idno>
+  <idno type="EEBO-PROQUEST">2240898398</idno>
+  
+            <idno type="STC">Wing L155B</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.121.g.9[93]</idno>
+            <idno type="STC">ESTC R229241</idno>
+            <idno type="PROQUEST">ocm99888266</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888266e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25586)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201070)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A8:1[95])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The ladies lamentation, or, The commanders last farewel, who valiantly lost his life in the last engagement; for the loss of whom his loving lady laments. To the tune of, Loggan water, licensed according to order.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>for C. Bates,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing (CD-ROM, 1996).</note>
+                  <note>Imperfect: copy cropped with loss of imprint.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="topical_term">Love --  England --  Poetry --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="illustration">
+            <pb facs="tcp:201070:1"/>
+            <p>
+               <figure>
+                  <figDesc>woodcut of a gentlewoman with a turkey</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="song">
+            <head>THE LADIES LAMENTATION, Or, The Commanders last Farewel, who Valiantly lost his Life in the late Engagement; For the loss of whom his Loving Lady Laments.</head>
+            <opener>To the Tune of, <hi>Loggan Water,</hi>
+            </opener>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <p>Licensed according to Order.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <lg>
+               <l>IN <hi>London</hi> liv'd a Squyre, where</l>
+               <l>He long enjoy'd a Lady fair;</l>
+               <l>At length he to the Warrs must go,</l>
+               <l>To face the proud insulting Foe.</l>
+               <l>While Sailing in the Royal Fleet,</l>
+               <l>By which the <hi>French</hi> was fairly beat,</l>
+               <l>It was his Fortune then to fall,</l>
+               <l>In Battle by a Cannon Ball.</l>
+               <l>The tydings came that he was slain,</l>
+               <l>She wrung her hands and wept amain',</l>
+               <l>And with lamenting cryes, said she,</l>
+               <l>My dear would I had dy'd for thee.</l>
+               <l>What Joy or pleasure can I have,</l>
+               <l>While he lyes sleeping in the Grave,</l>
+               <l>In whom I plac'd my chief delight,</l>
+               <l>All Pleasures now has taken flight.</l>
+               <l>He's gone, I ne're shall see him more,</l>
+               <l>Behold the World cannot restore,</l>
+               <l>That fatal loss which I sustain,</l>
+               <l>He now lyes sleeping with the slain.</l>
+               <l>The Bloody Warrs by Land and Sea,</l>
+               <l>Alas! may well lamented be;</l>
+               <l>For while Men do for Conquest strive,</l>
+               <l>Warr parts the dearest Friends alive.</l>
+               <l>See Women loose their Husbands dear,</l>
+               <l>And Parents too their Children here:</l>
+               <l>Thus while the Sword is drawn, we find</l>
+               <l>It causes grief to Women kind.</l>
+               <l>By true experience have I found,</l>
+               <l>Some thousands are encompast round,</l>
+               <l>With grief and sorrow now this day</l>
+               <l>And I am so as well as they.</l>
+               <l>Mine eyes like streams &amp; fountains flow</l>
+               <l>My heart's opprest with grief and woe,</l>
+               <l>The loss of my brave Hero bold,</l>
+               <l>Is more to me than Crowns of Gold.</l>
+               <l>Had I an Earthly Diadem,</l>
+               <l>I'de freely give it now for him;</l>
+               <l>But had I that and ten times more,</l>
+               <l>All this could not his Life restore.</l>
+               <l>The inward Torments which I feel,</l>
+               <l>I am not able to conceal;</l>
+               <l>But to the World I here declare,</l>
+               <l>My grief is more then I can bear.</l>
+               <l>Take hence my Jewels, Chains and Rings</l>
+               <l>Rich Diamonds, all such gawdy things,</l>
+               <l>And Robes of Sable let me have,</l>
+               <l>Now to go mourning to my Grave.</l>
+               <l>Since thus I do in Torment dwell,</l>
+               <l>All Earthly Glory now farewel,</l>
+               <l>There's nothing stedfast here below,</l>
+               <l>All things are turning too and fro.</l>
+               <l>Alas my splended Glory bright,</l>
+               <l>Was in a moment blasted quite,</l>
+               <l>And I instrange confusion hurl'd,</l>
+               <l>There's nothing stedfast in this World.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
